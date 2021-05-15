@@ -13,7 +13,7 @@ it's essential to be _unambiguous_ about the _technology/tools_ we use,
 so that everyone is clear what we all need to learn/use
 to make product(s) that are **_functional, fast, beautiful, useable and reliable!_**
 
-## Group Members:-
+## Group Members
 1. Aastha Singh - aasthasingh564@bbdu.ac.in
 2. Abhishek Gupta - abhi20061997@gmail.com
 3. Abhishek Kumar Singh - abhi1211shek@bbdu.ac.in
@@ -21,21 +21,21 @@ to make product(s) that are **_functional, fast, beautiful, useable and reliable
 5. Akansha Gautam - akanksha8547@gmail.com
 6. Amit Kasera - itsmeamit1111@gmail.com
 
-## Technologies Used:-
+## Technologies Used
  * Platform:- ASP.NET
  * Language:- C#
  * Back-end:- Microsoft SQL Server
 
-## Tools Requirement:-
+## Tools Requirement
  * To view the code:- Visual Studio 2019
  * Database:- MsSQL and SSMS(SQL Server Management Studio)
 
-## Assumptions:-
+## Assumptions
 1. Once the user is successfully logged in, he is able to see the list of all the product items that people are selling at his particular City.
 2. The user have an option to change the city as well, however, the system restrict the user from buying a product from another state apart from his home state.
 3. There is no restriction on checking the list of products available for buying in any city.
 
-## Contributions:-
+## Contributions
 #### 1. Aastha Singh:-
 * Seller login module
 * Selling module
@@ -55,7 +55,7 @@ to make product(s) that are **_functional, fast, beautiful, useable and reliable
 * Cart module
 * Database
 
-## Steps To Execute the Solution (Usage):-
+## Steps To Execute the Solution (Usage)
 1. Download the Project.
 2. Run database file (script.sql).
 3. Change connection String in Web.config.
