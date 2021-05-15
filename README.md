@@ -84,3 +84,6 @@ to make product(s) that are **_functional, fast, beautiful, useable and reliable
 <img src="newfolder/ss14.png">
 13. You can  see the order details on Orders. 
 <img src="newfolder/ss15.png">
+
+
+### THANK YOU!
