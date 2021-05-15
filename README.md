@@ -1,4 +1,4 @@
-# DIVISIMA
+# Divisima
 
 ## Description
 The primary goal of **DIVISIMA** , an _e-commerce site_ is to sell goods online. This project deals with developing an e-commerce website for **Online Product Sale**. 
